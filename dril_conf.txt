@@ -1,0 +1,2 @@
+highest_number=1000
+number_of_questions=10
